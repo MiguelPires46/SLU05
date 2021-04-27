@@ -4,3 +4,4 @@ strawberries
 yogurt
 almonds
 butter
+eggs
